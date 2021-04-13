@@ -370,7 +370,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FBAB45 !important;}
 .row0{}
 .row1{border-color:rgba(255,255,255,.3);}
 .row2{color:#474747; background-color:#F4F4F4;}
-.row3{color:#474747; background-color:#FFFFFF;
+.row3{color:white; background-color:#FFFFFF;
 	background-image: url('https://wallpaper.dog/large/961998.jpg');
 	background-position: center; /* Center the image */
  	 background-repeat: no-repeat; /* Do not repeat the image */
@@ -609,4 +609,13 @@ table a, #comments a{background-color:inherit;}
 .paragrafi10{
 	color: white;
 
+}
+.heading2{
+	color: white;
+}
+.paragrafi11{
+	color: white !important;
+}
+.heading3{
+	color: white;
 }
